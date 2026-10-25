@@ -1,0 +1,23 @@
+{
+  "name": "plawright",
+  "version": "1.0.0",
+  "description": "My First Repo    This is my project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnmolGarampalli/Plawright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnmolGarampalli/Plawright/issues"
+  },
+  "homepage": "https://github.com/AnmolGarampalli/Plawright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
